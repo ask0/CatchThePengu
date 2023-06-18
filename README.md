@@ -34,9 +34,9 @@ Shows an alert dialog at the end of the game with the player's score and an opti
 
 # Screenshots
 
-<img src="screenshot/Screenshot_1.png" height="400px">
+<img src="https://raw.githubusercontent.com/ask0/CatchThePengu/master/screenshots/Screenshot_1.png" height="400px">
 
-<img src="screenshot/Screenshot_2.png" height="400px">
+<img src="https://raw.githubusercontent.com/ask0/CatchThePengu/master/screenshots/Screenshot_2.png" height="400px">
 
 # Usage
 Upon opening the app, the game begins immediately. Penguins will appear at random on the screen. Your goal is to tap (catch) as many penguins as possible before time runs out. The current score and remaining time are displayed at the top of the screen.
