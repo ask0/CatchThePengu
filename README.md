@@ -25,9 +25,19 @@ You can run the application either on a physical device or on an emulator from A
 
 # Features
 Keeps track of the player's score throughout the game.
+
 Stores the high score persistently, allowing it to be preserved even after the app is closed.
+
 Displays a countdown timer during the gameplay.
+
 Shows an alert dialog at the end of the game with the player's score and an option to restart the game.
+
+# Screenshots
+
+<img src="screenshot/Screenshot_1.png" height="400px">
+
+<img src="screenshot/Screenshot_2.png" height="400px">
+
 # Usage
 Upon opening the app, the game begins immediately. Penguins will appear at random on the screen. Your goal is to tap (catch) as many penguins as possible before time runs out. The current score and remaining time are displayed at the top of the screen.
 
